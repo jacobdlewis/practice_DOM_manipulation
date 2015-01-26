@@ -1,0 +1,31 @@
+
+h1 {
+  color: darkslategrey;
+}
+
+.red {
+  color:red;
+}
+
+.blue {
+  color: blue;
+}
+
+.purple {
+  color: purple;
+}
+
+.steelblue {
+  color: steelblue;
+}
+
+.button_like {
+  background-color: steelblue;
+  border-radius: 10%;
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  box-shadow: 3px 3px 3px black;
+}
